@@ -2,9 +2,9 @@
 
 <h2>📌 Project Overview</h2>
 <p>
-This repository contains <b>Exploratory Data Analysis (EDA)</b> performed on multiple real-world datasets. 
-The objective is to <b>clean, analyze, and visualize data</b> to extract meaningful insights and support 
-data-driven decision-making.
+This repository contains <b>Exploratory Data Analysis (EDA)</b> performed on real-world datasets including 
+<b>Titanic Survival Dataset</b> and <b>Credit Card Dataset</b>. The objective is to clean, analyze, and visualize data 
+to extract meaningful insights and support data-driven decision-making.
 </p>
 
 <p><b>This project demonstrates strong analytical thinking, data preprocessing, and insight generation skills.</b></p>
@@ -24,19 +24,16 @@ data-driven decision-making.
 
 <h2>📂 Datasets Used</h2>
 
-<h3>🔹 Sales Dataset</h3>
+<h3>🚢 Titanic Dataset</h3>
 <ul>
-  <li>Analysis of revenue, profit, and regional performance</li>
+  <li>Analyzed passenger survival based on age, gender, class, and fare</li>
+  <li>Explored impact of socio-economic factors on survival rate</li>
 </ul>
 
-<h3>🔹 Movies Dataset</h3>
+<h3>💳 Credit Card Dataset</h3>
 <ul>
-  <li>Analysis of ratings, genres, and popularity trends</li>
-</ul>
-
-<h3>🔹 COVID Dataset</h3>
-<ul>
-  <li>Analysis of cases, deaths, and recovery trends</li>
+  <li>Analyzed transaction patterns and spending behavior</li>
+  <li>Identified anomalies and potential outliers in financial data</li>
 </ul>
 
 <hr>
@@ -46,7 +43,7 @@ data-driven decision-making.
   <li>Python</li>
   <li>Pandas, NumPy</li>
   <li>Matplotlib, Seaborn</li>
-  <li>Jupyter Notebook</li>
+  <li>Google Colab</li>
 </ul>
 
 <hr>
@@ -61,38 +58,29 @@ data-driven decision-making.
 
 <hr>
 
-<h2>📊 Sample Visualizations</h2>
-<p><i>Add your graphs/screenshots below:</i></p>
-
-<img src="images/plot1.png" alt="Visualization 1" width="700"/>
-<br><br>
-<img src="images/plot2.png" alt="Visualization 2" width="700"/>
-
-<hr>
-
 <h2>🔍 Key Insights</h2>
 <ul>
-  <li>Identified trends and seasonal patterns in datasets</li>
-  <li>Detected anomalies and outliers affecting results</li>
-  <li>Found correlations between important variables</li>
-  <li>Derived insights useful for business decisions</li>
+  <li><b>Titanic:</b> Female passengers had significantly higher survival rates compared to males</li>
+  <li><b>Titanic:</b> Passengers in higher classes had better chances of survival</li>
+  <li><b>Credit Card:</b> Data showed skewed distribution indicating presence of extreme transaction values</li>
+  <li><b>Credit Card:</b> Detected anomalies and outliers that may indicate unusual transaction behavior</li>
 </ul>
 
 <hr>
 
-<h2>🚀 How to Run</h2>
-<ol>
-  <li>Clone the repository</li>
-  <li>Install dependencies:</li>
-</ol>
+<h2>🚀 View Project</h2>
 
-<pre>
-pip install -r requirements.txt
-</pre>
+<h3>🚢 Titanic Dataset</h3>
+<p>
+<a href="https://colab.research.google.com/drive/1ls8o18CaE2Uuy1QbsTgbXfcXPx_CJAc4?usp=sharing" target="_blank">🔗 View Notebook</a><br>
+<a href="YOUR_TITANIC_DATASET_LINK" target="_blank">📂 Dataset Link</a>
+</p>
 
-<ol start="3">
-  <li>Run Jupyter Notebook</li>
-</ol>
+<h3>💳 Credit Card Dataset</h3>
+<p>
+<a href="https://colab.research.google.com/drive/1atcEwCusefo_IjBJXi-VBkPaNxqqJhN2?usp=sharing" target="_blank">🔗 View Notebook</a><br>
+<a href="https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud" target="_blank">📂 Dataset Link</a>
+</p>
 
 <hr>
 
@@ -100,7 +88,7 @@ pip install -r requirements.txt
 <ul>
   <li>Improved skills in <b>data cleaning and EDA</b></li>
   <li>Gained experience in <b>data visualization and storytelling</b></li>
-  <li>Developed ability to <b>extract insights from raw data</b></li>
+  <li>Developed ability to <b>extract insights from real-world datasets</b></li>
 </ul>
 
 <hr>
