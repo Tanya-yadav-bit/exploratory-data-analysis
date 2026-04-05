@@ -73,7 +73,7 @@ to extract meaningful insights and support data-driven decision-making.
 <h3>🚢 Titanic Dataset</h3>
 <p>
 <a href="https://colab.research.google.com/drive/1ls8o18CaE2Uuy1QbsTgbXfcXPx_CJAc4?usp=sharing" target="_blank">🔗 View Notebook</a><br>
-<a href="YOUR_TITANIC_DATASET_LINK" target="_blank">📂 Dataset Link</a>
+<a href="https://github.com/Tanya-yadav-bit/exploratory-data-analysis/blob/main/Dataset2_Titanic/titanic.csv" target="_blank">📂 Dataset Link</a>
 </p>
 
 <h3>💳 Credit Card Dataset</h3>
